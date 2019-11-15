@@ -1,0 +1,6 @@
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/118.jpg 625,625,743,757,0 88,608,188,760,0 290,172,392,265,0
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/148.jpg 624,628,743,756,0 88,607,188,760,0 459,20,598,102,0
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/191.jpg 623,629,743,752,0 89,596,188,760,0 342,17,480,90,0
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/203.jpg 623,623,742,753,0 89,596,187,760,0 348,18,479,95,0
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/356.jpg 622,622,742,757,0 88,600,188,760,0 351,8,452,93,0
+F:\Project\Machinelearning\YoloV3_MultiObject/VOCdevkit/VOC2007/JPEGImages/7.jpg 623,635,743,754,0 89,597,187,760,0 220,132,294,255,0
